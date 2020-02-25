@@ -12,7 +12,9 @@ GEM
       minitest (~> 5.1)
       tzinfo (~> 1.1)
       zeitwerk (~> 2.2)
-    concurrent-ruby (1.1.5)
+    concurrent-ruby (1.1.6)
+    faker (2.10.2)
+      i18n (>= 1.6, < 2)
     i18n (1.8.2)
       concurrent-ruby (~> 1.0)
     minitest (5.14.0)
@@ -22,7 +24,7 @@ GEM
     pg (1.2.2)
     puma (4.3.1)
       nio4r (~> 2.0)
-    rack (2.1.2)
+    rack (2.2.2)
     rack-protection (2.0.8.1)
       rack
     rack-test (1.1.0)
@@ -47,6 +49,7 @@ PLATFORMS
 
 DEPENDENCIES
   activerecord
+  faker
   pg
   puma
   rack-test
