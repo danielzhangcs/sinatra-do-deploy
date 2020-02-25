@@ -12,13 +12,13 @@ uri = URI(root)
 
 # Show a pretty table of all users... rendered on a html page.
 get '/' do
-  res =  Net::HTTP.get_response(ENV['API_HOST'] + "/users", ENV['API_PORT'])
+  res =  Net::HTTP.get_response(ENV['API_HOST'] + "/users")
   @users = JSON.parse(res.body)
   erb :index
 end
 
 post '/users' do
-  Net::HTTP.post_form(URI(root), {"n" => params["n"]})
+  Net::HTTP.post_form(ENV['API_HOST'] + "/users", {"n" => params["n"]})
   redirect '/'
 end
 

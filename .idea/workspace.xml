@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b80cc7f3-e1f0-4fe3-8c00-5d32981ad51c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend-sinatra/app.rb" beforeDir="false" afterPath="$PROJECT_DIR$/frontend-sinatra/app.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service-api-sinatra/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service-api-sinatra/.idea/vcs.xml" afterDir="false" />
     </list>
@@ -54,7 +55,7 @@
       <workItem from="1582610087266" duration="699000" />
       <workItem from="1582610949279" duration="1709000" />
       <workItem from="1582647658513" duration="2328000" />
-      <workItem from="1582659864388" duration="311000" />
+      <workItem from="1582659864388" duration="1485000" />
     </task>
     <servers />
   </component>
