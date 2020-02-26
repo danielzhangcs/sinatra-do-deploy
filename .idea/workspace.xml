@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b80cc7f3-e1f0-4fe3-8c00-5d32981ad51c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend-sinatra/app.rb" beforeDir="false" afterPath="$PROJECT_DIR$/frontend-sinatra/app.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend-sinatra/views/index.erb" beforeDir="false" afterPath="$PROJECT_DIR$/frontend-sinatra/views/index.erb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service-api-sinatra/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service-api-sinatra/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-api-sinatra/config/database.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service-api-sinatra/config/database.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/service-api-sinatra" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -56,7 +55,7 @@
       <workItem from="1582610087266" duration="699000" />
       <workItem from="1582610949279" duration="1709000" />
       <workItem from="1582647658513" duration="2328000" />
-      <workItem from="1582659864388" duration="6753000" />
+      <workItem from="1582659864388" duration="8114000" />
     </task>
     <servers />
   </component>

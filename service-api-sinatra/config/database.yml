@@ -22,12 +22,12 @@ default: &default
 
 development:
   <<: *default
-  database: srv_api_dev
+  database: sin_api_dev
 
 test:
   <<: *default
-  database: srv_api_test
+  database: sin_api_test
 
 production:
   <<: *default
-  database: srv_api_prod
+  database: sin_api_prod
