@@ -30,6 +30,7 @@ jobs:
           script: |
             su - rails -c "cd /home/rails/sinatra-do-deploy/frontend-sinatra && bundle"
             sudo systemctl restart rails.service
+
       - name: (Service API) Copy file via scp
         uses: appleboy/scp-action@master
         env:
