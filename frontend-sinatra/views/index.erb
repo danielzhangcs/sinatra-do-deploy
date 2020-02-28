@@ -4,27 +4,50 @@
 </title>
 </head>
 
-<div class="container">
-<form action="/users" method="post" class="py-3">
 
-  <div class="form-group">
-    <label for="numInput" >Number of Users to Create</label>
-    <input type="text" id="numInput" class="form-control" name = "n" placeholder="Please Enter">
-    <small class="form-text text-muted">It should be less than 30 to ensure success</small>
+<div class="container py-5 d-inline-flex p-2 bd-highlight">
+<span>
+
+<form action="/users" method="post">
+
+  <div class="input-group">
+    <input type="text" id="numInput" class="form-control" name = "n" placeholder="Number of Users to Create">
+    <span class="input-group-btn">
+    <button class="btn btn-primary" type="submit">Create</button>
+  </span>
   </div>
-
-  <button type="submit" class="btn btn-primary">Create</button>
-
 </form>
-</div>
 
-<div class="container ">
-<form action="/users/destroy" method="post">
+</span>
+
+  <h5 class="text-white">
+    s
+  </h5>
+
+
+    <form action="/users/destroy" method="post">
   <div class="form-group">
     <button type="submit" id="destroyButton" class="btn btn-danger">Destroy</button>
   </div>
 </form>
+
+  <h5 class="text-white">
+    s
+  </h5>
+
+<!--  <form action="/" method="get">-->
+<!--    <div class="form-group">-->
+<!--      <button type="submit" class="btn btn-primary">Refresh</button>-->
+<!--    </div>-->
+<!--  </form>-->
+
+  <a href="/" class="btn btn-info h-25">
+    <span class="glyphicon glyphicon-refresh"></span> Refresh
+  </a>
+
 </div>
+
+
 
 
 <section class="bg-light text-center py-5">

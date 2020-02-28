@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b80cc7f3-e1f0-4fe3-8c00-5d32981ad51c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/frontend-sinatra/views/error.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sinatra-do-deploy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sinatra-do-deploy.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend-sinatra/app.rb" beforeDir="false" afterPath="$PROJECT_DIR$/frontend-sinatra/app.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend-sinatra/views/index.erb" beforeDir="false" afterPath="$PROJECT_DIR$/frontend-sinatra/views/index.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend-sinatra/views/layout.erb" beforeDir="false" afterPath="$PROJECT_DIR$/frontend-sinatra/views/layout.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service-api-sinatra/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service-api-sinatra/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service-api-sinatra/config/database.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service-api-sinatra/config/database.yml" afterDir="false" />
     </list>
@@ -61,7 +58,8 @@
       <workItem from="1582610087266" duration="699000" />
       <workItem from="1582610949279" duration="1709000" />
       <workItem from="1582647658513" duration="2328000" />
-      <workItem from="1582659864388" duration="12971000" />
+      <workItem from="1582659864388" duration="13168000" />
+      <workItem from="1582832237610" duration="3882000" />
     </task>
     <servers />
   </component>
